@@ -166,7 +166,7 @@
                   class="px-0 d-flex justify-center align-center"
                 >
                   <div class="details4 d-flex align-center pl-5">
-                    <img class="img5" :src="cartItem.url3" alt="" />
+                    <img class="img5" :src="cartItem.url3" alt="TN" />
                     <div class="nqp d-flex flex-column ml-3">
                       <div class="name4">{{ cartItem.desc }}</div>
                       <div class="quant4">
