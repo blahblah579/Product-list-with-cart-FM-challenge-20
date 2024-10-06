@@ -59,7 +59,7 @@ export default defineConfig({
       '.vue',
     ],
   },
-  // base: "/Product-list-with-cart-FM-challenge-20/",
+  base: "/Product-list-with-cart-FM-challenge-20/",
   server: {
     port: 3000,
   },
