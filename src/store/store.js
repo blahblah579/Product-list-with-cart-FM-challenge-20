@@ -30,7 +30,7 @@ const store = createStore({
         name: "Macaron",
         desc: "Macaron Mix of Five",
         price: "8.00",
-        url: "/src/assets/image-macaron-desktop-modified.png",
+        url: "/image-macaron-desktop-modified.png",
         url2: "/src/assets/image-macaron-mobile-modified.png",
         url4: "/src/assets/image-macaron-tablet-modified.png",
         url3: "/src/assets/image-macaron-thumbnail-modified.png",
