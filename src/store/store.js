@@ -2,7 +2,7 @@ import { createStore } from "vuex";
 
 const store = createStore({
   state: {
-    cartItemCount: 0, // Holds the count of items in the cart
+    cartItemCount: 10, // Holds the count of items in the cart
     cartItems: [],
     items: [
       {
