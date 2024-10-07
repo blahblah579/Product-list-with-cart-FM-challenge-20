@@ -10,7 +10,7 @@ const store = createStore({
         name: "Waffle",
         desc: "Waffle with Berries",
         price: "6.50",
-        url: "/image-waffle-desktop-modified.PNG",
+        url: "/image-waffle-desktop-modified.png",
         url2: "/image-waffle-mobile-modified.png",
         url4: "/image-waffle-tablet-modified.png",
         url3: "/image-waffle-thumbnail-modified.png",
