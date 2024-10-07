@@ -50,7 +50,7 @@ const store = createStore({
         name: "Baklava",
         desc: "Pistachio Baklava",
         price: "4.00",
-        url: "/src/assets/image-baklava-desktop-modified.png",
+        url: "/src/assets/https://github.com/blahblah579/Product-list-with-cart-FM-challenge-20/blob/main/src/assets/image-tiramisu-desktop-modified.png?raw=true",
         url2: "/src/assets/image-baklava-mobile-modified.png",
         url4: "/src/assets/image-baklava-tablet-modified.png",
         url3: "/src/assets/image-baklava-thumbnail-modified.png",
