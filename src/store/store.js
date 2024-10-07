@@ -40,7 +40,7 @@ const store = createStore({
         name: "Tiramisu",
         desc: "Classic Tiramisu",
         price: "5.50",
-        url: "/src/assets/image-tiramisu-desktop-modified.png",
+        url: "https://github.com/blahblah579/Product-list-with-cart-FM-challenge-20/blob/main/src/assets/image-tiramisu-desktop-modified.png",
         url2: "/src/assets/image-tiramisu-mobile-modified.png",
         url4: "/src/assets/image-tiramisu-tablet-modified.png",
         url3: "/src/assets/image-tiramisu-thumbnail-modified.png",
