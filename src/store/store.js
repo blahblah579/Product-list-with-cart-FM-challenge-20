@@ -20,7 +20,7 @@ const store = createStore({
         name: "Crème Brûlée",
         desc: "Vanilla Bean Crème Brûlée",
         price: "7.00",
-        url: "/src/assets/image-creme-brulee-desktop-modified.png",
+        url: "https://blahblah579.github.io/Product-list-with-cart-FM-challenge-20/src/assets/image-creme-brulee-desktop-modified.png",
         url2: "/src/assets/image-creme-brulee-mobile-modified.png",
         url4: "/src/assets/image-creme-brulee-tablet-modified.png",
         url3: "/src/assets/image-creme-brulee-thumbnail-modified.png",
